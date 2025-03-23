@@ -109,16 +109,10 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "deepseek",
-              url: "https://chat.deepseek.com",
-              icon: "robot",
-              icon_color: palette.peach,
-            },
-            {
               name: "musicForProgramming();",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
-              icon_color: palette.red,
+              icon_color: palette.peach,
             },
           ],
         },
