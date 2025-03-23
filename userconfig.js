@@ -97,22 +97,10 @@ const default_config = {
               icon: "brand-stackoverflow",
               icon_color: palette.peach,
             },
-            {
-              name: "monkeytype",
-              url: "https://monkeytype.com",
-              icon: "keyboard",
-              icon_color: palette.red,
-            },
-            {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net",
-              icon: "binary-tree",
-              icon_color: palette.blue,
-            },
           ],
         },
         {
-          name: "ai",
+          name: "assist",
           links: [
             {
               name: "chatgpt",
@@ -125,6 +113,18 @@ const default_config = {
               url: "https://chat.deepseek.com",
               icon: "robot",
               icon_color: palette.peach,
+            },
+            {
+              name: "monkeytype",
+              url: "https://monkeytype.com",
+              icon: "keyboard",
+              icon_color: palette.red,
+            },
+            {
+              name: "musicForProgramming();",
+              url: "https://musicforprogramming.net",
+              icon: "binary-tree",
+              icon_color: palette.blue,
             },
           ],
         },
