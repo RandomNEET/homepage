@@ -121,7 +121,7 @@ const default_config = {
           links: [
             {
               name: "leetcode",
-              url: "https:/leetcode.com",
+              url: "https://leetcode.com",
               icon: "code-plus",
               icon_color: palette.green,
             },
