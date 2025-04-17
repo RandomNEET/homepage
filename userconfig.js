@@ -103,9 +103,9 @@ const default_config = {
           name: "assist",
           links: [
             {
-              name: "chatgpt",
-              url: "https://chat.openai.com",
-              icon: "brand-openai",
+              name: "copilot",
+              url: "https://copilot.microsoft.com",
+              icon: "brand-github-copilot",
               icon_color: palette.green,
             },
             {
