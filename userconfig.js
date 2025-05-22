@@ -70,7 +70,7 @@ const default_config = {
             },
             {
               name: "pihole",
-              url: "http://pi.scaphium.xyz:8080/admin",
+              url: "http://pi.scaphium.xyz/admin",
               icon: "network",
               icon_color: palette.blue,
             },
