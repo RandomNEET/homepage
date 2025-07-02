@@ -57,22 +57,10 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "jellyfin",
-              url: "http://pi.scaphium.xyz:8096/",
-              icon: "player-play",
-              icon_color: palette.peach,
-            },
-            {
               name: "qbittorrent",
               url: "https://qbittorrent.scaphium.xyz",
               icon: "download",
               icon_color: palette.red,
-            },
-            {
-              name: "pihole",
-              url: "http://pi.scaphium.xyz/admin",
-              icon: "network",
-              icon_color: palette.blue,
             },
           ],
         },
