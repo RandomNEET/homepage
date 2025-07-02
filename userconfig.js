@@ -4,7 +4,7 @@ const palette = mocha;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Guilin",
+    location: "Yichun",
     scale: "C",
   },
   clock: {
