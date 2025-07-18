@@ -92,7 +92,7 @@ const default_config = {
           links: [
             {
               name: "copilot",
-              url: "https://copilot.microsoft.com",
+              url: "https://github.com/copilot",
               icon: "brand-github-copilot",
               icon_color: palette.green,
             },
