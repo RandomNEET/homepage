@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://howl-24.github.io/startpage/",
+  fastlink: "https://randomneet.github.io/startpage/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -20,11 +20,11 @@ const default_config = {
       background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
-          name: "howl",
+          name: "me",
           links: [
             {
-              name: "Howl-24",
-              url: "https://github.com/Howl-24",
+              name: "RandomNEET",
+              url: "https://github.com/RandomNEET",
               icon: "brand-github",
               icon_color: palette.green,
             },
@@ -35,7 +35,7 @@ const default_config = {
           links: [
             {
               name: "mail",
-              url: "https://outlook.live.com",
+              url: "https://webmail.migadu.com",
               icon: "mail",
               icon_color: palette.green,
             },
@@ -92,7 +92,7 @@ const default_config = {
           links: [
             {
               name: "copilot",
-              url: "https://github.com/copilot",
+              url: "https://copilot.github.com",
               icon: "brand-github-copilot",
               icon_color: palette.green,
             },
