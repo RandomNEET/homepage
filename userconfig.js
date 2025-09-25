@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://randomneet.github.io/startpage/",
+  fastlink: "https://startpage.randomneet.me/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -20,12 +20,12 @@ const default_config = {
       background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
-          name: "me",
+          name: "bookmarks",
           links: [
             {
-              name: "RandomNEET",
-              url: "https://github.com/RandomNEET",
-              icon: "brand-github",
+              name: "linkding",
+              url: "https://linkding.scaphium.xyz/",
+              icon: "bookmarks",
               icon_color: palette.green,
             },
           ],
@@ -114,22 +114,10 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "exercism",
-              url: "https://exercism.org",
-              icon: "code-minus",
-              icon_color: palette.peach,
-            },
-            {
-              name: "aoc",
-              url: "https://adventofcode.com",
-              icon: "brand-linktree",
-              icon_color: palette.red,
-            },
-            {
               name: "monkeytype",
               url: "https://monkeytype.com",
               icon: "keyboard",
-              icon_color: palette.blue,
+              icon_color: palette.peach,
             },
           ],
         },
@@ -154,12 +142,6 @@ const default_config = {
               icon: "brand-bilibili",
               icon_color: palette.peach,
             },
-            {
-              name: "bangumi",
-              url: "https://bgm.tv/",
-              icon: "device-tv",
-              icon_color: palette.red,
-            },
           ],
         },
         {
@@ -183,7 +165,6 @@ const default_config = {
               icon: "brand-telegram",
               icon_color: palette.red,
             },
-
           ],
         },
         {
